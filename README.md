@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/viscount.hero/" target="blank"><img align="center" src="https://fh.unpad.ac.id/wp-content/uploads/2019/07/facebook-1.png" alt="https://www.facebook.com/viscount.hero/" height="30" width="40" /></a>
-<a href="https://instagram.com/gilangser_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@gilangser_" height="30" width="40" /></a>
+<a href="https://instagram.com/gilangser_" target="blank"><img align="center" src="https://www.freepngimg.com/download/logo/69768-logo-computer-layout-instagram-icons-png-file-hd.png" alt="@gilangser_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
