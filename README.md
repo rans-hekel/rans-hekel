@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.facebook.com/viscount.hero/" target="blank"><img align="center" src="https://fh.unpad.ac.id/wp-content/uploads/2019/07/facebook-1.png" alt="https://www.facebook.com/viscount.hero/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/viscount.hero/" target="blank"><img align="center" src="https://cdn-2.tstatic.net/pontianak/foto/bank/images/ilustrasi-logo-facebook-lite-dengan-mode-gelap-45455.jpg" alt="https://www.facebook.com/viscount.hero/" height="30" width="40" /></a>
 <a href="https://instagram.com/gilangser_" target="blank"><img align="center" src="https://www.freepngimg.com/download/logo/69768-logo-computer-layout-instagram-icons-png-file-hd.png" alt="@gilangser_" height="30" width="40" /></a>
 </p>
 
