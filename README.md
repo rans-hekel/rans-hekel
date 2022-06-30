@@ -1,5 +1,7 @@
 <img align="center" src="https://cardivo.vercel.app/api?name=Rangga%20Uncahya&description=Hi,%20i%27m%20a%20full%20stack%20web%20developer%20and%20i%27m%2020%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/rans-hekel&usqp=CAU&backgroundColor=%23ecf0f1" style="max-width: 100%;">
 
+https://assets.promediateknologi.com/crop/0x0:0x0/x/photo/2022/03/14/3086823449.jpg
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/viscount.hero/" target="blank"><img align="center" src="https://cdn-2.tstatic.net/pontianak/foto/bank/images/ilustrasi-logo-facebook-lite-dengan-mode-gelap-45455.jpg" alt="https://www.facebook.com/viscount.hero/" height="30" width="40" /></a>
