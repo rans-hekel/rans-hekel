@@ -1,5 +1,5 @@
 
-<img src="https://assets.promediateknologi.com/crop/0x0:0x0/x/photo/2022/03/14/3086823449.jpg" alt="hutao" style="max-width: 100%;">
+<img src="https://assets.promediateknologi.com/crop/0x0:0x0/x/photo/2022/03/14/3086823449.jpg" alt="hutao" style="max-width: 100%; max-height: 80%;">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
