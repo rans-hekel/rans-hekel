@@ -1,5 +1,5 @@
 
-<img src="https://assets.promediateknologi.com/crop/0x0:0x0/x/photo/2022/03/14/3086823449.jpg" alt="hutao" style="max-width: 100%; max-height: 80%;">
+<img src="https://media.suara.com/pictures/653x366/2022/10/09/72774-karakter-hu-tao-genshin-impact.webp" alt="hutao" style="max-width: 100%; max-height: 80%;">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
