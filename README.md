@@ -30,4 +30,4 @@ I love programming so much
 </div>
 <b>Programming Language I used last week</b>
 
-![rangga wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ranshekel&layout=compact&hide=HTML)
+![rangga wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ranshekel&layout=compact)
