@@ -33,4 +33,9 @@ I love programming so much
 
 ![rangga wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ranshekel&layout=compact)
 
+<hr>
+
 </div>
+<b>My Codewars Honors </b>
+<img src="https://www.codewars.com/users/rans-hekel/badges/small" alt"codewars">
+
