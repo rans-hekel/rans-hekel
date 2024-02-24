@@ -25,17 +25,17 @@ I love programming so much
 
 ### Badges
 <div>
-<b>My GitHub Stats</b>
+<p>My GitHub Stats</p>
 
 <a href="http://www.github.com/rans-hekel"><img src="https://github-readme-stats.vercel.app/api?username=rans-hekel&show_icons=true&hide=issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="rans-hekel's GitHub stats" /></a>
 
-<b>Programming Language I used last week</b>
+<p>Programming Language I used last week</p>
+<a href="http://wakatime.com/@ranshekel"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=ranshekel&layout=compact" alt="rans-hekel wakatime"/></a>
 
-![rangga wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ranshekel&layout=compact)
 
-<hr>
+
+<p>My Codewars Honors </p>
+<a href="https://www.codewars.com/users/rans-hekel"><img src="https://github.r2v.ch/codewars?user=rans-hekel&top_languages=true&stroke=%23b362ff&theme=purple_dark"/></a>
 
 </div>
-<b>My Codewars Honors </b>
-<img src="https://www.codewars.com/users/rans-hekel/badges/small" alt"codewars">
 
