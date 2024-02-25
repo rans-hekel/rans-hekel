@@ -1,5 +1,3 @@
-<img src="https://media.suara.com/pictures/653x366/2022/10/09/72774-karakter-hu-tao-genshin-impact.webp" alt="hutao" style="max-width: 100%; max-height: 80%;">
-
 Hi 👋 My name is rangaaa
 ========================
 
