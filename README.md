@@ -3,9 +3,9 @@ Hi 👋 My name is rangaaa
 
 Web Developer and Students
 
+I love programming so much
 --------------------------
 
-I love programming so much
 
 * 🧠  I'm learning VueJS and ReactJS
 
