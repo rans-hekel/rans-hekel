@@ -31,9 +31,5 @@ I love programming so much
 <a href="http://wakatime.com/@ranshekel"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=ranshekel&layout=compact" alt="rans-hekel wakatime"/></a>
 
 
-
-<p>My Codewars Honors </p>
-<a href="https://www.codewars.com/users/rans-hekel"><img src="https://github.r2v.ch/codewars?user=rans-hekel&top_languages=true&stroke=%23b362ff&theme=purple_dark"/></a>
-
 </div>
 
