@@ -7,7 +7,7 @@ I love programming so much
 --------------------------
 
 
-* 🧠  I'm learning VueJS and ReactJS
+* 🧠  I'm learning FullStack, Blockchain, and DevOps
 
 ### Skills
 
