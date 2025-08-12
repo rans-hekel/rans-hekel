@@ -1,4 +1,4 @@
-Hi 👋 My name is rangaaa
+Hi 👋 My name is ranggaaa
 ========================
 
 Web Developer and Students
