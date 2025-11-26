@@ -30,17 +30,6 @@ Interest: FullStack | Blockchain | DevOps
 
 ---
 
-# 📊 GitHub Performance
-
-<div align="center">
-
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=rans-hekel&theme=tokyonight&hide_border=true&background=00000000" />
-
-</div>
-
----
-
 # ⏳ Wakatime Overview
 
 ### **Top Languages Last Year**  
