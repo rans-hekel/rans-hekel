@@ -22,7 +22,7 @@ Interest: FullStack | Blockchain | DevOps
 
 ---
 
-# 🎨 Tech Stack (Aesthetic Grid)
+# 🎨 Tech Stack 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,js,ts,nodejs,express,nestjs,react,vue,html,css,sass,tailwind,bootstrap,vite,python,mysql,mongodb,firebase,laravel,docker,git,figma&theme=dark" />
