@@ -15,7 +15,7 @@
 ```txt
 
 Name: Ranggaaa
-Role: Web Developer & Student
+Role: Web Developer & Blockchain Engineer
 Interest: FullStack | Blockchain | DevOps
 
 ```
