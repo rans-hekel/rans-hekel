@@ -28,6 +28,15 @@ Currently expanding deeper into Web3 development — integrating blockchain tech
 ## ⏳ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 12 February 2026 - To: 19 February 2026
+
+JavaScript   3 hrs 3 mins          ███████████████████████▒░   93.94 %
+CSS          10 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
+HTML         1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+```
+
 <!--END_SECTION:waka-->
 
 
