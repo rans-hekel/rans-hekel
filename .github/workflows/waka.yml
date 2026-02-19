@@ -2,13 +2,19 @@ name: Waka Readme
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *" #
   workflow_dispatch:
 
 jobs:
-  update-readme:
+  update:
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: actions/checkout@v3
+
+      - name: Run Waka Readme
+        uses: athul/waka-readme@master
         with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SECTION_NAME: waka
+          SHOW_TITLE: "true"
