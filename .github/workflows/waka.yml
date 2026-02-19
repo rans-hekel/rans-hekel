@@ -5,17 +5,10 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v4
-
-      - uses: anmol098/waka-readme-stats@master
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
