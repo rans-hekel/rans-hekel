@@ -15,13 +15,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: anmol098/waka-readme-stats@v4
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_LANGUAGE: "true"
-          SHOW_TOTAL_CODE_TIME: "true"
-          SHOW_LINES_OF_CODE: "false"
-          SHOW_OS: "false"
-          SHOW_PROJECTS: "false"
-          SHOW_EDITORS: "false"
-          SHOW_LOC_CHART: "false"
