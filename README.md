@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-    <a href="https://rangga.vercel.app">
+    <a href="https://portofolio-rangga-azure.vercel.app/">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-rangga.vercel.app-111827?style=for-the-badge" />
   </a>
   <img src="https://img.shields.io/badge/Focus-Web%20Development%20%7C%20Web3%20%7C%20DevOps-9333ea?style=for-the-badge" />
