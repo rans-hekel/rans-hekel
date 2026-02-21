@@ -32,6 +32,8 @@ Currently expanding deeper into Web3 development — integrating blockchain tech
 ```txt
 From: 13 February 2026 - To: 20 February 2026
 
+Total Time: 3 hrs 28 mins
+
 JavaScript   3 hrs 16 mins         ███████████████████████▓░   94.34 %
 CSS          10 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
 HTML         1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
