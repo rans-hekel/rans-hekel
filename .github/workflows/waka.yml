@@ -2,32 +2,26 @@ name: WakaTime Readme
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # update setiap hari
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v3
         with:
           token: ${{ secrets.GH_TOKEN }}
 
       - name: Update WakaTime Stats
-        uses: wakareadmestats/waka-readme-stats@master
+        uses: athul/waka-readme@master
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-
           SECTION_NAME: waka
           SHOW_TITLE: "true"
           SHOW_TOTAL_CODE_TIME: "true"
-          SHOW_SHORT_INFO: "true"
           SHOW_LANGUAGE: "true"
           SHOW_LOC_CHART: "true"
-          SHOW_PROJECTS: "true"
-          SHOW_EDITORS: "true"
-          SHOW_OS: "true"
           SHOW_UPDATED_DATE: "true"
-          LOCALE: "en"
-          BADGE_STYLE: "for-the-badge"
