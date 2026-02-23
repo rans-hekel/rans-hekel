@@ -45,7 +45,7 @@ HTML         1 min                 ░░░░░░░░░░░░░░░
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://rangga.vercel.app">
+  <a href="https://portofolio-rangga-azure.vercel.app/">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-rangga.vercel.app-111827?style=for-the-badge" />
   </a>
 </p>
