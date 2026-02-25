@@ -30,14 +30,14 @@ Currently expanding deeper into Web3 development — integrating blockchain tech
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 February 2026 - To: 23 February 2026
+From: 17 February 2026 - To: 24 February 2026
 
-Total Time: 2 hrs 8 mins
+Total Time: 1 hr 20 mins
 
-JavaScript   1 hr 55 mins          ██████████████████████▒░░   89.78 %
-CSS          8 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 %
-TypeScript   4 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
-HTML         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+JavaScript   1 hr 13 mins          ██████████████████████▓░░   91.03 %
+TypeScript   4 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
+CSS          2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
+HTML         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
