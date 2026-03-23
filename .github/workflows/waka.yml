@@ -2,8 +2,11 @@ name: Waka Readme
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 */6 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update-readme:
@@ -12,7 +15,7 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Update WakaTime stats
-        uses: athul/waka-readme@master
+        uses: athul/waka-readme@v0.2.3
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
@@ -22,3 +25,4 @@ jobs:
           LANG_COUNT: 10
           SHOW_TIME: true
           SHOW_TOTAL: true
+          TARGET_BRANCH: main
